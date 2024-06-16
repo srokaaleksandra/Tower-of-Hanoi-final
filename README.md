@@ -1,2 +1,2 @@
-# wie-a-Hanoi
+# Tower-of-Hanoi-final
 projekt
